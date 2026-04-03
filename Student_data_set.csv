@@ -1,0 +1,101 @@
+Student_ID,Gender,Attendance_Percentage,Study_Hours_Per_Week,Previous_Semester_GPA,Parent_Education_Level,Participation_Score,Assignments_Completed,Final_Grade_Class
+STU001,Female,95,14,8.8,Master,92,10,Distinction
+STU002,Male,52,3,5.1,High School,40,3,Fail
+STU003,Female,78,8,7.2,Bachelor,70,8,First Class
+STU004,Male,85,10,7.9,Bachelor,80,9,First Class
+STU005,Male,45,2,4.8,High School,35,2,Fail
+STU006,Female,92,12,8.5,Master,88,10,Distinction
+STU007,Male,65,5,6.1,High School,55,6,Pass
+STU008,Female,88,11,8.1,Master,85,9,Distinction
+STU009,Male,74,7,6.8,Bachelor,65,7,Pass
+STU010,Female,58,4,5.4,High School,45,4,Fail
+STU011,Male,81,9,7.5,Master,75,8,First Class
+STU012,Female,98,15,9.2,Master,95,10,Distinction
+STU013,Male,62,5,6.0,Bachelor,50,5,Pass
+STU014,Female,89,12,8.4,Bachelor,82,9,Distinction
+STU015,Male,48,2,4.9,High School,38,3,Fail
+STU016,Female,76,7,7.0,Bachelor,68,7,First Class
+STU017,Male,84,10,7.8,Master,78,8,First Class
+STU018,Female,91,13,8.7,Master,90,10,Distinction
+STU019,Male,68,6,6.4,Bachelor,60,6,Pass
+STU020,Female,55,3,5.2,High School,42,4,Fail
+STU021,Male,79,8,7.4,Bachelor,72,8,First Class
+STU022,Female,96,14,9.0,Master,94,10,Distinction
+STU023,Male,60,4,5.8,High School,48,5,Pass
+STU024,Female,86,11,8.0,Bachelor,84,9,First Class
+STU025,Male,42,1,4.5,High School,30,2,Fail
+STU026,Female,94,13,8.9,Master,91,10,Distinction
+STU027,Male,71,6,6.6,Bachelor,62,7,Pass
+STU028,Female,83,9,7.7,Master,76,8,First Class
+STU029,Male,50,3,5.0,High School,35,3,Fail
+STU030,Female,90,12,8.6,Bachelor,89,10,Distinction
+STU031,Male,82,10,7.6,Master,79,8,First Class
+STU032,Female,47,2,4.6,High School,36,2,Fail
+STU033,Male,97,14,9.1,Master,96,10,Distinction
+STU034,Female,66,5,6.3,Bachelor,58,6,Pass
+STU035,Male,77,8,7.1,Bachelor,69,8,First Class
+STU036,Female,53,3,5.3,High School,43,4,Fail
+STU037,Male,87,11,8.2,Master,83,9,First Class
+STU038,Female,93,13,8.8,Bachelor,92,10,Distinction
+STU039,Male,63,4,6.1,High School,52,5,Pass
+STU040,Female,44,1,4.2,High School,32,2,Fail
+STU041,Male,75,7,6.9,Bachelor,67,7,First Class
+STU042,Female,99,15,9.4,Master,97,10,Distinction
+STU043,Male,69,6,6.5,Bachelor,61,6,Pass
+STU044,Female,80,9,7.3,Master,73,8,First Class
+STU045,Male,56,4,5.5,High School,46,4,Fail
+STU046,Female,95,14,9.0,Master,93,10,Distinction
+STU047,Male,61,5,5.9,Bachelor,49,5,Pass
+STU048,Female,85,11,8.0,Master,81,9,First Class
+STU049,Male,51,3,5.1,High School,39,3,Fail
+STU050,Female,88,12,8.5,Bachelor,86,9,Distinction
+STU051,Male,73,7,6.7,Bachelor,64,7,Pass
+STU052,Female,49,2,4.8,High School,37,3,Fail
+STU053,Male,84,10,7.8,Master,77,8,First Class
+STU054,Female,92,13,8.7,Master,89,10,Distinction
+STU055,Male,67,6,6.2,Bachelor,59,6,Pass
+STU056,Female,54,3,5.4,High School,44,4,Fail
+STU057,Male,78,8,7.2,Bachelor,71,8,First Class
+STU058,Female,96,15,9.2,Master,95,10,Distinction
+STU059,Male,64,5,6.0,High School,54,5,Pass
+STU060,Female,46,2,4.7,High School,34,2,Fail
+STU061,Male,81,9,7.5,Master,74,8,First Class
+STU062,Female,91,12,8.6,Bachelor,90,10,Distinction
+STU063,Male,70,6,6.6,Bachelor,63,7,Pass
+STU064,Female,59,4,5.7,High School,47,4,Fail
+STU065,Male,86,11,8.1,Master,82,9,First Class
+STU066,Female,94,14,8.9,Master,92,10,Distinction
+STU067,Male,62,4,5.8,High School,51,5,Pass
+STU068,Female,43,1,4.4,High School,31,2,Fail
+STU069,Male,76,7,7.0,Bachelor,68,7,First Class
+STU070,Female,89,12,8.4,Bachelor,85,9,Distinction
+STU071,Male,57,3,5.6,High School,45,4,Fail
+STU072,Female,82,10,7.7,Master,76,8,First Class
+STU073,Male,98,15,9.3,Master,96,10,Distinction
+STU074,Female,65,5,6.1,Bachelor,56,6,Pass
+STU075,Male,52,2,5.0,High School,41,3,Fail
+STU076,Female,79,8,7.3,Bachelor,72,8,First Class
+STU077,Male,90,13,8.6,Master,88,10,Distinction
+STU078,Female,68,6,6.4,Bachelor,60,6,Pass
+STU079,Male,48,2,4.9,High School,38,3,Fail
+STU080,Female,85,11,7.9,Master,80,9,First Class
+STU081,Male,93,14,8.8,Bachelor,91,10,Distinction
+STU082,Female,60,4,5.9,High School,50,5,Pass
+STU083,Male,45,1,4.5,High School,33,2,Fail
+STU084,Female,74,7,6.8,Bachelor,66,7,Pass
+STU085,Male,87,12,8.2,Master,84,9,First Class
+STU086,Female,97,15,9.1,Master,95,10,Distinction
+STU087,Male,55,3,5.3,High School,43,4,Fail
+STU088,Female,81,9,7.6,Bachelor,75,8,First Class
+STU089,Male,92,13,8.7,Master,89,10,Distinction
+STU090,Female,63,5,6.2,Bachelor,53,6,Pass
+STU091,Male,50,2,5.1,High School,39,3,Fail
+STU092,Female,77,8,7.1,Bachelor,69,8,First Class
+STU093,Male,88,11,8.3,Master,86,9,First Class
+STU094,Female,95,14,9.0,Master,94,10,Distinction
+STU095,Male,69,6,6.5,Bachelor,61,7,Pass
+STU096,Female,58,4,5.6,High School,46,4,Fail
+STU097,Male,83,10,7.8,Bachelor,77,8,First Class
+STU098,Female,41,1,4.3,High School,29,2,Fail
+STU099,Male,72,6,6.7,Master,64,7,Pass
+STU100,Female,96,15,9.2,Master,95,10,Distinction
